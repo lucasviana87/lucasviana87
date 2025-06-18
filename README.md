@@ -1,9 +1,8 @@
 ## Sejam bem-vindos ao meu Gitgub 👋
 
 
-<p align="center">
-![Digitando](https://i.gifer.com/17Cg.gif)
-</p>
+<p align="center">![Digitando](https://i.gifer.com/17Cg.gif)</p>
+<p align="center"><img src="https://i.gifer.com/17Cg.gif"></p>
 
 <!--
 **lucasviana87/lucasviana87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
