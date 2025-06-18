@@ -1,7 +1,6 @@
 ## Sejam bem-vindos ao meu Gitgub 👋
 
 
-<p align="center">![Digitando](https://i.gifer.com/17Cg.gif)</p>
 <p align="center"><img src="https://i.gifer.com/17Cg.gif"></p>
 
 <!--
