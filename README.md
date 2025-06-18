@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Digitando](https://i.gifer.com/17Cg.gif)
+
 <!--
 **lucasviana87/lucasviana87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
